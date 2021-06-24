@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(14, 4, 49);
+    font-family: 'Big Shoulders Display', cursive;
+    
+}
+button{
+    padding: 1em 2em;
+    background: none;
+    color: rgb(241, 141, 46);
+    border:2px solid;
+    transition: all 1s;
+}
+button:hover{
+    color: rgba(253, 255, 246, 0.993);
+    border-color: rgb(201, 228, 84);
+    transform: scale(1.2) translateY(-0.25em);
+    box-shadow: 2px 4px 3px rgb(201, 228, 84);
+}
