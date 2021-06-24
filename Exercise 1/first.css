@@ -1,0 +1,15 @@
+div{
+    text-align: center;   
+    border-left: 16px solid rgb(141, 66, 66);
+    margin-left: 100px;
+}
+h1{
+    font-weight: 500;
+    font-size: 100px;
+}
+span{
+    background-color: snow;
+    color: rgb(182, 30, 30);
+}
+
+
